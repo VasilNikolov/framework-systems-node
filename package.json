@@ -9,8 +9,14 @@
     "start-server": "node app.js"
   },
   "contributors": [
-    { "name": "Vasil Nikolov", "url": "https://github.com/VasilNikolov" },
-    { "name": "Valentin Parvanov", "url": "https://github.com/nemss" }
+    {
+      "name": "Vasil Nikolov",
+      "url": "https://github.com/VasilNikolov"
+    },
+    {
+      "name": "Valentin Parvanov",
+      "url": "https://github.com/nemss"
+    }
   ],
   "license": "GNU GPLv3",
   "devDependencies": {
